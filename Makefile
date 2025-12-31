@@ -27,7 +27,7 @@ help:
 	@echo "  help        - Show this help message"
 
 # Run all verification checks locally (mirrors GitHub Actions CI)
-verify: tidy fmt vet
+verify: tidy fmt vet build
 	@echo "=== Running CI checks locally ==="
 	@echo ""
 	@for dir in $(MODULES); do \
