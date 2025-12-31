@@ -1,5 +1,7 @@
 # uzqw Blog Labs
 
+[![CI](https://github.com/uzqw/uzqw-blog-labs/actions/workflows/ci.yml/badge.svg)](https://github.com/uzqw/uzqw-blog-labs/actions/workflows/ci.yml)
+
 ## About
 
 Hi, I'm **uzqw** - a software engineer passionate about deep-diving into technical challenges and sharing practical knowledge from real-world engineering experiences.
